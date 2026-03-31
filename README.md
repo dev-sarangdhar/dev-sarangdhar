@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @dev-sarangdhar
+## 👋 Hi, I’m Dev Sarangdhar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Computer Science And Engineering In VIT
 - 💞️ I’m looking to collaborate on Front-End Project
