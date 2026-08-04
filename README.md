@@ -71,11 +71,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-sarangdhar&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
 </div>
 
-<div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=dev-sarangdhar&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
