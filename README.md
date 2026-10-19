@@ -1,4 +1,4 @@
-# Dev Sarangdhar
+# Dev Santosh Sarangdhar
 
 **Full-Stack Developer · AI Tooling · Computer Science Undergraduate**
 
